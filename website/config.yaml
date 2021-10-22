@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Leonny"
 theme: "./.."
 relativeURLs: true
 
@@ -45,13 +45,13 @@ params:
   descripe_l1_person: "Hai, perkenalkan nama saya Adhelia Gemeleonny Pamungkas, hobby saya mendaki gunung dan latihan silat, saya sekolah di SMK Negeri Pasirian, saya mengambil jurusan Multimedia.
   descripe_l2_person: "Rumah saya berada di Pasirian kota."
   skills:
-    - name: PKK
+    - name: Silat
       percentage: 90
-    - name: DMI
+    - name: Mendaki gunung 
       percentage: 85
     - name: TPAV
       percentage: 80
-    - name: React JS
+    - name: videography
       percentage: 70
 
   # Experience
