@@ -36,7 +36,7 @@ params:
       Url: "/blog"
 
   # Home
-  name: "Example name"
+  name: "Adhelia Gemeleonny Pamungkas"
   profile: "/images/v1/avatar.webp"
   github: "https://github.com/"
   linkedin: "https://linkedin.com/"
@@ -63,8 +63,8 @@ params:
 
   # About
   profile_image: "/images/profile.webp"
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is just a example for about section. You can easily change with the help of cofig file."
+  descripe_l1_person: "Hai, perkenalkan nama saya Adhelia Gemeleonny Pamungkas, hobby saya mendaki gunung dan latihan silat, saya sekolah di SMK Negeri Pasirian, saya mengambil jurusan Multimedia,."
+  descripe_l2_person: "Rumah saya berada di Pasirian kota."
   job: "your role"
   resume: "/resume.pdf"
 
