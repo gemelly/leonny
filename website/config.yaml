@@ -42,7 +42,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hai, perkenalkan nama saya Adhelia Gemeleonny Pamungkas, hobby saya mendaki gunung dan latihan silat, saya sekolah di SMK Negeri Pasirian, saya mengambil jurusan Multimedia."
+  descripe_l1_person: "Hai, perkenalkan nama saya Adhelia Gemeleonny Pamungkas, hobby saya mendaki gunung, latihan silat, dan membuat video di youtobe, saya bersekolah di SMK Negeri Pasirian mengambil jurusan Multimedia"
   descripe_l2_person: "Rumah saya berada di Pasirian kota. [here](#projects)"
   skills:
     - name: Silat
