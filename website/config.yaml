@@ -48,11 +48,11 @@ params:
     - name: Silat
       percentage: 90
     - name: Mendaki gunung 
-      percentage: 80
+      percentage: 95
     - name: TPAV
       percentage: 80
     - name: videography
-      percentage: 70
+      percentage: 100
 
   # Experience
   disable_experience: false
